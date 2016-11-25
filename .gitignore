@@ -1,0 +1,11 @@
+.settings/
+target/
+**/target
+.project
+.classpath
+**/.project
+**/.classpath
+.idea/
+**/*.iml
+**/META-INF/*
+bin/
