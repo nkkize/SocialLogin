@@ -1,7 +1,6 @@
 server:
     port: 9191
-security:
-  oauth2:
+facebook:
     client:
       clientId: 1265944246810782
       clientSecret: 63cf1b38733b554f9d1317f77ed3f2e5
